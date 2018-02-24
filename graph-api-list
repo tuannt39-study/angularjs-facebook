@@ -1,0 +1,31 @@
+
+Tool Graph API Explorer
+https://developers.facebook.com/tools/explorer/145634995501895/
+
+Bearer EAACEdEose0cBAOC9EhG2WLue2LEmiK3zpHwnsnKkjPHqBApPgSonXnQ11eDNjZADdxtXBBVWRekRzUhF2mrR0O5abhcqXP9SXaJjhEFcZAauaGaOFdCC7gwHM2Y8GzsLwj8ZCPpLVTZCA5HrqrubBZAMKzmP2u2nZBl4TWFrG9Od0xJDPMvowNXtUc0D50kzN2H8dukmyA6AZDZD
+
+Graph API Reference
+https://developers.facebook.com/docs/graph-api/reference/
+
+https://graph.facebook.com/v2.12/158244681325863?fields=about,address,admin_notes,age_range,birthday,can_review_measurement_request,context,cover,currency,devices,education,email,employee_number,favorite_athletes,favorite_teams,first_name,gender,hometown,id,inspirational_people,install_type,installed,interested_in,is_payment_enabled,is_shared_login,is_verified,labels,languages,last_ad_referral,last_name,link,locale,location,meeting_for,middle_name,name,name_format,payment_pricepoints,political,profile_pic,public_key,quotes,relationship_status,religion,security_settings,shared_login_upgrade_required_by,short_name,significant_other,sports,test_group,third_party_id,timezone,token_for_business,updated_time,user_ref,verified,video_upload_limits,viewer_can_send_gift,website,work
+
+Thông tin cơ bản
+https://graph.facebook.com/v2.12/me
+https://graph.facebook.com/v2.12/158244681325863
+{
+  "id": "158244681325863",
+  "name": "Tuân Nguyễn"
+}
+
+https://graph.facebook.com/v2.12/158244681325863/groups
+
+https://graph.facebook.com/v2.12/1943146342576531/admins
+https://graph.facebook.com/v2.12/1943146342576531?fields=admins
+https://graph.facebook.com/v2.12/1943146342576531?fields=members
+https://graph.facebook.com/v2.12/1943146342576531?fields=feed
+https://graph.facebook.com/v2.12/1943146342576531_2447004698857357?fields=comments
+https://graph.facebook.com/v2.12/1943146342576531_2447004698857357?fields=likes
+https://graph.facebook.com/v2.12/1943146342576531_2447004698857357?fields=reactions
+
+https://graph.facebook.com/v2.12/158244681325863/friendlists
+https://graph.facebook.com/v2.12/158244681325863?fields=friendlists
